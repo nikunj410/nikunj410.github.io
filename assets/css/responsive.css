@@ -1,0 +1,68 @@
+@media(min-width:1201px) and (max-width:1600px){
+	
+}
+
+@media(min-width:1025px) and (max-width:1200px){
+	
+}
+
+@media(min-width:992px) and (max-width:1024px){
+	
+}
+
+@media(min-width:768px) and (max-width:991px){
+	.container{max-width: 740px;}
+	.gallery-wrp .container{max-width: 740px;}
+
+	.navbar-brand{font-size: 24px;}
+	.navbar-light .navbar-nav li{margin-right: 25px;}
+	.navbar-light .navbar-nav .nav-link{font-size: 16px;}
+
+	.gallery-wrp .gallery-box{display: block;margin: 0 0 15px;}
+	.gallery-wrp .gallery-box .box-img{width: 100%;}
+	.gallery-wrp .gallery-box .description{padding: 40px 20px 20px;}
+	.gallery-wrp .gallery-box span{left: 20px;top: 160px;transform: unset;}
+}
+
+@media(max-width:767px){
+	.container{max-width: 540px;}
+	.navbar-brand{font-size: 26px;}
+	.navbar-light .navbar-nav{padding: 15px;}
+	.navbar-light .navbar-nav li{margin: 0;}
+	.navbar-light .navbar-nav li .nav-link{font-size: 16px;padding: 10px 0;display: block;}
+
+	.about-wrpper{padding: 40px 0;}
+	.about-wrpper .about-img img{height: auto;}
+	.about-wrpper .about-img .about-links{margin: 0 0 20px;}
+
+	.titlebar h2{font-size: 26px;margin: 0 0 10px;}
+	.titlebar p{font-size: 15px;line-height: 24px;}
+
+	.blog-wrp{padding: 40px 0;}
+	.blog-wrp .titlebar{margin: 0 0 20px}
+	.blog-wrp .description h2{font-size: 24px;margin: 0 0 10px;}
+	.blog-wrp .description h6{margin: 0 0 15px;}
+
+	.gallery-wrp{padding:40px 0;}
+	.gallery-wrp .container{max-width: 540px;}
+	.gallery-wrp .titlebar{margin: 0 0 20px;}
+	.gallery-wrp .gallery-box{display: block;margin: 0 0 15px;}
+	.gallery-wrp .gallery-box .box-img{width: 100%;}
+	.gallery-wrp .gallery-box .description{padding: 40px 20px 20px;}
+	.gallery-wrp .gallery-box span{left: 20px;top: 160px;transform: unset;}
+
+	.science-wrpper{padding: 40px 0;}
+	.science-wrpper .science-details P{font-size: 15px;line-height: 24px;}
+	.science-block .science-img img{margin: 0 0 20px;}
+	.science-block .science-description h3{font-size: 22px;margin: 0 0 15px;}
+	.even-science-block .row{flex-flow: column-reverse;}
+}
+
+@media(min-width:576px) and (max-width:767px){
+	
+}
+
+@media(min-width:448px) and (max-width:575px){
+	
+}
+

@@ -1,0 +1,23 @@
+<meta charset="utf-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% include seo.html %}
+
+<title>Nikunj Goel</title>
+
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon.png">
+
+<!-- CSS only -->
+<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css">
+<link rel="stylesheet" type="text/css" href="{{ "/assets/css/bootstrap.min.css" | relative_url }}">
+<link rel="stylesheet" type="text/css" href="{{ "/assets/css/aos.css" | relative_url }}">
+<link rel="stylesheet" type="text/css" href="{{ "/assets/css/slick.css" | relative_url }}">
+<link rel="stylesheet" type="text/css" href="{{ "/assets/css/style.css" | relative_url }}">
+<link rel="stylesheet" type="text/css" href="{{ "/assets/css/responsive.css" | relative_url }}">
+
+{% if site.head_scripts %}
+{% for script in site.head_scripts %}
+<script src="{{ script | relative_url }}"></script>
+{% endfor %}
+{% endif %}
