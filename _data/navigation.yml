@@ -1,8 +1,10 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
-  - title: "Contact"
-    url: /contact/
-  - title: "CV"
-    url: /cv/
+  - title: "Home"
+    url: /home/
+  - title: "Science"
+    url: /science/
+  - title: "Publications"
+    url: /publications/
+  - title: "News"
+    url: /news/
