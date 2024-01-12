@@ -1,13 +1,13 @@
 @media(min-width:1201px) and (max-width:1600px){
-	
+
 }
 
 @media(min-width:1025px) and (max-width:1200px){
-	
+
 }
 
 @media(min-width:992px) and (max-width:1024px){
-	
+
 }
 
 @media(min-width:768px) and (max-width:991px){
@@ -56,13 +56,20 @@
 	.science-block .science-img img{margin: 0 0 20px;}
 	.science-block .science-description h3{font-size: 22px;margin: 0 0 15px;}
 	.even-science-block .row{flex-flow: column-reverse;}
+
+	.outreach-wrp{padding: 40px 0;}
+	.outreach-wrp .outreach-box h3{font-size: 22px;}
+
+	.comments-wrp{padding: 40px 0;}
+	.comments-wrp .comment-title{margin: 0 0 20px;}
+	.comments-wrp .comment-title h2{margin: 0 0 15px;}
+	.comments-wrp h3{margin: 0 0 10px;}
 }
 
 @media(min-width:576px) and (max-width:767px){
-	
+
 }
 
 @media(min-width:448px) and (max-width:575px){
-	
-}
 
+}

@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div class="outreach-wrp">
+	<div class="container">
+		<div class="row">
+			{% for item in page.type %}
+			<div class="col-md-6 col-sm-12">
+				<div class="outreach-box">
+					<a href="{{ item.url }}"><img src="{{ item.image | relative_url }}" alt="{{ item.image_alt }}"></a>
+					<h3>{{ item.name }}</h3>
+				</div>
+			</div>
+			{% endfor %}
+		</div>
+	</div>
+</div>
