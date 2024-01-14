@@ -58,7 +58,7 @@ $(document).ready(function () {
     });
     /* **** End Add Remove Class **** */
 
-    
+
 
     /* **** Slider ***** */
     $(".multiple-items").slick({
@@ -112,5 +112,5 @@ $(document).ready(function () {
     });
     /* ***** End Slider **** */
 
-    
+
 });
