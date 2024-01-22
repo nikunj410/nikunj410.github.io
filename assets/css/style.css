@@ -338,13 +338,13 @@ header {
 .news-wrp .new-block{
     margin: 0 0 40px;
 }
-.news-wrp .new-block h3{
+.news-wrp h3{
     font-size: 22px;
     color: #000;
     font-weight: 600;
     margin: 0 0 15px;
 }
-.news-wrp .new-block ul li{
+.news-wrp ul li{
     font-size: 15px;
     font-weight: 500;
     color: #000;
@@ -352,11 +352,11 @@ header {
     padding-left: 15px;
     margin: 0 0 5px;
 }
-.news-wrp .new-block ul li a{
+.news-wrp ul li a{
     color: #9b1e10;
     text-decoration: underline;
 }
-.news-wrp .new-block ul li:before{
+.news-wrp ul li:before{
     position: absolute;
     content: "";
     height: 5px;

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: news
 title: "News"
 permalink: "/news/"
 seo_description: "News"
@@ -14,6 +14,8 @@ News
 *   I was awarded the Trailblazer Ecology Publication award by the Student Section, Ecological Society of America.
 *   I presented my work on spatial sorting at the biannual [ASN conference](https://asnasilomar2023.org/) at Asilomar and Evolution.
 
+<br>
+
 ### 2022
 
 *   What limits species ranges? Check out our new[paper](https://www.journals.uchicago.edu/doi/abs/10.1086/720420?journalCode=an) in the American Naturalist.
@@ -22,6 +24,8 @@ News
 *   I got into ecology through a series of fortunate events. As a Stengl-Wyer graduate fellow, I[write](https://biodiversity.utexas.edu/news/entry/meet-stengl-wyer-fellow-nikunj-goel) about how I got here and where I plan to go next.
 *   I was awarded [Graduate Continuing Fellowship](https://gradschool.utexas.edu/funding/fellowships/grad-school/continuing) by UT Austin for 2022-23.
 *   Are you an empiricist wanting to understand and do ecology theory? We [published](https://www.journals.uchicago.edu/doi/abs/10.1086/717206) a step-by-step guide on how you can get started.
+
+<br>
 
 ### 2021
 
@@ -34,6 +38,8 @@ News
 *   I am officially a Ph.D. candidate.
 *   I got vaccinated.
 *   I will be presenting my work on source-sink dynamics at the American Society of Naturalists (virtually). ​
+
+<br>
 
 ### 2020 (Finally it's over)
 

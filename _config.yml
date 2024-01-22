@@ -30,22 +30,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:me@vidhyav656.tech"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://vidhyav656.tech"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/vidhyav656"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/vidhyav656"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/vidhyav656"
+      url: "mailto:nikunj410@gmail.com"
 
 # Reading Files
 include:
