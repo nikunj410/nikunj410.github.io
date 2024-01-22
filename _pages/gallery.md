@@ -82,4 +82,3 @@ type:
     heading: "Bark beetle tracks"
     text: "Bark beetle tracks on the trunk of a dead tree at IISc Bangalore."
 ---
-
