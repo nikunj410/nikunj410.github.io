@@ -1,0 +1,54 @@
+---
+layout: default
+---
+
+<section class="blog-wrp">
+	<div class="container">
+		<div class="titlebar">
+			<h2>{{ page.page_title }}</h2>
+			<p>{{ page.page_description }}</p>
+		</div>
+
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+
+{% for post in posts %}
+
+
+
+		<div class="blog-img">
+			<a href="{{ post.url | relative_url }}">
+				<img src="{{ post.image }}" alt="">
+			</a>
+		</div>
+
+		<div class="description">
+			<div class="row">
+				<div class="col-lg-4 col-md-12 col-sm-12">
+					<h2>{{ post.title }}</h2>
+					<h6>{{ post.author }} <span>02/28/2018 {{ post.date | date: "%-d %d %Y" }}</span></h6>
+				</div>
+				<div class="col-lg-8 col-md-12 col-sm-12">
+					<p>"Well, this year started with fire. I mean literally!<br><br>This January Carla and I visited
+						Bangalore to meet Vishu, my undergraduate advisor, for a lab visit. We spent the week discussing
+						research in our respective labs. Vishu also took us to see shola-grasslands in the Western Ghats
+						of Karnataka, where we saw an actual fire (probably anthropogenic) burning the grass layer. Here
+						is the time lapse video that I made.<br><br>We had a great time in Bangalore discussing science
+						and international politics and</p>
+				</div>
+			</div>
+		</div>
+
+		<div class="arrow-box">
+			<ul>
+				<li><a href="#"><i class="fas fa-chevron-left"></i></a></li>
+				<li><a href="#"><i class="fas fa-chevron-right"></i></a></li>
+			</ul>
+		</div>
+{% endfor %}
+	</div>
+</section>
