@@ -1,30 +1,65 @@
 ---
-layout: archive
+layout: default
 ---
+<section class="blog-wrp">
+	<div class="container">
+		<div class="titlebar">
+			<h2>{{ page.page_title }}</h2>
+			<p>{{ page.page_description }}</p>
+		</div>
 
-{{ content }}
+		<div class="blog-img">
+			<img src="{{ page.image | relative_url }}" alt="{{ page.title }}">
+		</div>
 
-<ul class="taxonomy__index">
-  {% assign postsInYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
-  {% for year in postsInYear %}
-    <li>
-      <a href="#{{ year.name }}">
-        <strong>{{ year.name }}</strong> <span class="taxonomy__count">{{ year.items | size }}</span>
-      </a>
-    </li>
-  {% endfor %}
-</ul>
+		<div class="description">
+			<div class="row">
+				<div class="col-lg-4 col-md-12 col-sm-12">
+					<h2>{{ page.title }}</h2>
+					<h6>{{ page.author }} <span>{{ page.date  | date: "%-d %B %Y" }}</span></h6>
+				</div>
+				<div class="col-lg-8 col-md-12 col-sm-12">
+					{{ page.content }}
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
 
-{% assign entries_layout = page.entries_layout | default: 'list' %}
-{% assign postsByYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
-{% for year in postsByYear %}
-  <section id="{{ year.name }}" class="taxonomy__section">
-    <h2 class="archive__subtitle">{{ year.name }}</h2>
-    <div class="entries-{{ entries_layout }}">
-      {% for post in year.items %}
-        {% include archive-single.html type=entries_layout %}
-      {% endfor %}
-    </div>
-    <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
-  </section>
-{% endfor %}
+<section class="comments-wrp">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6 col-sm-12">
+				<div class="comment-title">
+					<h2>SEE ALSO</h2>
+					<a href="#">travel</a>
+				</div>
+			</div>
+			<div class="col-md-6 col-sm-12">
+				<div class="comment-block">
+					<div class="row">
+						<div class="col-md-6 col-sm-12">
+							<h3>0 comments</h3>
+						</div>
+						<div class="col-md-6 col-sm-12">
+							<div class="form-group">
+								<label>Sort by </label>
+								<select class="form-control">
+									<option>Newest</option>
+									<option>Oldest</option>
+								</select>
+							</div>
+						</div>
+					</div>
+
+					<div class="comment-box">
+						<span><img src="/assets/images/user-img.png" alt=""></span>
+						<input type="text" class="form-control" placeholder="Add a comment...">
+					</div>
+					<a href="#" class="facebook-icon"><i class="fab fa-facebook-square"></i> Facebook Comments
+						plugin</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>

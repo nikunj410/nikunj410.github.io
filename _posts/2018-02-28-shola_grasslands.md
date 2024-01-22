@@ -1,6 +1,5 @@
 ---
 title: "Shola-grasslands in Western Ghats..."
-description: ""
 image: "/assets/images/blog.gif"
 author: "Nikunj Goel"
 ---

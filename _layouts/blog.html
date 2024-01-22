@@ -9,20 +9,16 @@ layout: default
 			<p>{{ page.page_description }}</p>
 		</div>
 
-{% if paginator %}
-  {% assign posts = paginator.posts %}
-{% else %}
-  {% assign posts = site.posts %}
-{% endif %}
+		{% if paginator %}
+			{% assign posts = paginator.posts %}
+		{% else %}
+			{% assign posts = site.posts %}
+		{% endif %}
 
-
-{% for post in posts %}
-
-
-
+		{% for post in posts %}
 		<div class="blog-img">
-			<a href="{{ post.url | relative_url }}">
-				<img src="{{ post.image }}" alt="">
+			<a href="{{ post.url }}">
+				<img src="{{ post.image | relative_url }}" alt="">
 			</a>
 		</div>
 
@@ -30,15 +26,10 @@ layout: default
 			<div class="row">
 				<div class="col-lg-4 col-md-12 col-sm-12">
 					<h2>{{ post.title }}</h2>
-					<h6>{{ post.author }} <span>02/28/2018 {{ post.date | date: "%-d %d %Y" }}</span></h6>
+					<h6>{{ post.author }} <span>{{ post.date | date: "%-d %B %Y" }}</span></h6>
 				</div>
 				<div class="col-lg-8 col-md-12 col-sm-12">
-					<p>"Well, this year started with fire. I mean literally!<br><br>This January Carla and I visited
-						Bangalore to meet Vishu, my undergraduate advisor, for a lab visit. We spent the week discussing
-						research in our respective labs. Vishu also took us to see shola-grasslands in the Western Ghats
-						of Karnataka, where we saw an actual fire (probably anthropogenic) burning the grass layer. Here
-						is the time lapse video that I made.<br><br>We had a great time in Bangalore discussing science
-						and international politics and</p>
+					{{ post.content }}
 				</div>
 			</div>
 		</div>
@@ -49,6 +40,6 @@ layout: default
 				<li><a href="#"><i class="fas fa-chevron-right"></i></a></li>
 			</ul>
 		</div>
-{% endfor %}
+		{% endfor %}
 	</div>
 </section>

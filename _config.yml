@@ -175,8 +175,4 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
-      read_time: true
-      comments: # true
-      share: true
-      related: true
+      layout: posts
