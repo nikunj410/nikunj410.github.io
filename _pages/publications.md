@@ -17,7 +17,7 @@ _bioRxiv_ [\[link\]](https://doi.org/10.1101/2021.09.20.461092)
  _The American Naturalist, 199 (1), 1-20 |_ [\[link\]](https://www.journals.uchicago.edu/doi/abs/10.1086/717206)
 
 * <span>3. </span> The mismatch between range and niche limits due to source-sink dynamics can be greater than species mean dispersal distance.
- **Goel, N.**, & Keitt, T. H. (2022)
+ **Goel, N.**, & Keitt, T. H. (2022) <br>
  _The American Naturalist, 200:3, 448-455_ | [\[ESA Talk\]](https://www.nikunjgoel.com/) | [\[ASN Talk\]](https://youtu.be/nWCGPcdZEZE) | [\[link\]](https://www.journals.uchicago.edu/doi/abs/10.1086/720420?journalCode=an)
 
 * <span>4. </span> Scale Invariance in the Spatial-Dynamics of Biological Invasions.
