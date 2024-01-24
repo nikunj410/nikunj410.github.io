@@ -9,6 +9,11 @@ main:
   - title: "News"
     url: /news/
   toc:
-    - title: "News"
-      url: /news/
-  
+    - title: "Gallery"
+      url: /gallery/
+    - title: "Math Art"
+      url: /math-art/
+    - title: "Shiny"
+      url: /shiny/
+    - title: "Blog"
+      url: /blog/
