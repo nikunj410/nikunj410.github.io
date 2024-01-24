@@ -8,12 +8,12 @@ main:
     url: /publications/
   - title: "News"
     url: /news/
-  toc:
-    - title: "Gallery"
-      url: /gallery/
-    - title: "Math Art"
-      url: /math-art/
-    - title: "Shiny"
-      url: /shiny/
-    - title: "Blog"
-      url: /blog/
+    toc:
+      - title: "Gallery"
+        url: /gallery/
+      - title: "Math Art"
+        url: /math-art/
+      - title: "Shiny"
+        url: /shiny/
+      - title: "Blog"
+        url: /blog/
