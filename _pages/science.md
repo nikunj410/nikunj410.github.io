@@ -5,7 +5,7 @@ permalink: "/science/"
 seo_description: "Science"
 type:
  - image: "/assets/images/science-img1.png"
-   heading: "Biological invasions"
+   heading: "Biological invasions"  
    content:
      |
       We face an invasion crisis. Rapid globalization of trade and commerce has displaced many species beyond their native realm, resulting in massive monetary and biodiversity losses. Therefore, understanding why drivers of the establishment and spread of invasive species is critical to maintaining ecosystem health.
