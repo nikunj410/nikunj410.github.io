@@ -1,6 +1,7 @@
 ---
 layout: shiny
 title: "Shiny"
+active: outreach
 permalink: "/shiny/"
 seo_description: "Shiny"
 page_title: "Shiny Gallery"

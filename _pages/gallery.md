@@ -1,6 +1,7 @@
 ---
 layout: gallery
 title: "Gallery"
+active: outreach
 permalink: "/gallery/"
 seo_description: "Gallery"
 heading: "Image Gallery"

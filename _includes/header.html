@@ -8,11 +8,20 @@
 			</button>
 			<div class="collapse navbar-collapse" id="NavbarToggle">
 				<ul class="navbar-nav">
-					<li class="active"><a class="nav-link" href="/">Home</a></li>
-					<li><a class="nav-link" href="/science">Science</a></li>
-					<li><a class="nav-link" href="/publications">Publications</a></li>
-					<li><a class="nav-link" href="/news">News</a></li>
-					<li class="dropdown">
+					{% for item in site.data.navigation.main %}
+					{% if page.active == item.active %}
+					<li class="active">
+						<a class="nav-link" href="{{ item.url }}">{{ item.title }}</a>
+					</li>
+					{% else %}
+					<li>
+						<a class="nav-link" href="{{ item.url }}">{{ item.title }}</a>
+					</li>
+					{% endif %}
+					{% endfor %}
+
+					{% if page.active == "outreach" %}
+					<li class="dropdown active">
 						<a href="/outreach" class="nav-link dropdown-toggle" id="dropdownMenuButton1"
 							aria-expanded="false">
 							Outreach <i class="far fa-angle-down"></i>
@@ -21,9 +30,23 @@
 							<li><a class="dropdown-item" href="/gallery">Gallery</a></li>
 							<li><a class="dropdown-item" href="/math-art">Math Art</a></li>
 							<li><a class="dropdown-item" href="/shiny">Shiny</a></li>
-							<li><a class="dropdown-item active" href="/blog">Blog</a></li>
+							<li><a class="dropdown-item" href="/blog">Blog</a></li>
 						</ul>
 					</li>
+					{% else %}
+					<li>
+						<a href="/outreach" class="nav-link dropdown-toggle" id="dropdownMenuButton1"
+							aria-expanded="false">
+							Outreach <i class="far fa-angle-down"></i>
+						</a>
+						<ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+							<li><a class="dropdown-item" href="/gallery">Gallery</a></li>
+							<li><a class="dropdown-item" href="/math-art">Math Art</a></li>
+							<li><a class="dropdown-item" href="/shiny">Shiny</a></li>
+							<li><a class="dropdown-item" href="/blog">Blog</a></li>
+						</ul>
+					</li>
+					{% endif %}
 				</ul>
 			</div>
 		</nav>

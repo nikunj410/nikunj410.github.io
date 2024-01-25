@@ -1,6 +1,7 @@
 ---
 layout: news
 title: "News"
+active: news
 permalink: "/news/"
 seo_description: "News"
 ---

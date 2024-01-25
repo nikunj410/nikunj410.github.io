@@ -1,6 +1,7 @@
 ---
 layout: gallery
 title: "Math Art"
+active: outreach
 permalink: "/math-art/"
 seo_description: "Math Art"
 heading: "Mathematical Biogeography"

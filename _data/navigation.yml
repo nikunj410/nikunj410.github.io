@@ -1,19 +1,33 @@
 # main links
 main:
   - title: "Home"
-    url: /home/
+    url: /
+    active: home
   - title: "Science"
-    url: /science/
+    url: /science
+    active: science
   - title: "Publications"
-    url: /publications/
+    url: /publications
+    active: publications
   - title: "News"
-    url: /news/
-    toc:
-      - title: "Gallery"
-        url: /gallery/
-      - title: "Math Art"
-        url: /math-art/
-      - title: "Shiny"
-        url: /shiny/
-      - title: "Blog"
-        url: /blog/
+    url: /news
+    active: news
+
+submain:
+  - title: "Outreach"
+    url: /outreach
+    active: outreach
+
+submenu:
+  - title: "Gallery"
+    url: /gallery
+    active: gallery
+  - title: "Math Art"
+    url: /math-art
+    active: math-art
+  - title: "Shiny"
+    url: /shiny
+    active: shiny
+  - title: "Blog"
+    url: /blog
+    active: blog

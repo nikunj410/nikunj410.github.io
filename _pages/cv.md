@@ -1,6 +1,7 @@
 ---
 title: "CV"
 permalink: /cv/
+active: cv
 date: 2023-01-26T03:02:20+00:00
 seo_description: cv about me
 tags: cv, resume

@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Publications"
+active: publications
 permalink: /publications/
 seo_description: publications
 ---

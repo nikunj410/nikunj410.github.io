@@ -1,6 +1,7 @@
 ---
 layout: outreach
 title: "Outreach"
+active: outreach
 permalink: "/outreach/"
 seo_description: "Outreach"
 type:

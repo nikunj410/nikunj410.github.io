@@ -1,8 +1,9 @@
 ---
 title: "Contact"
 permalink: /contact/
+active: contact
 date: 2023-01-26T03:02:20+00:00
-seo_description: contact me 
+seo_description: contact me
 ---
 
 This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
