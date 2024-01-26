@@ -24,16 +24,31 @@ type:
 
        **Goel, Nikunj** "Algebraic theorem of evolution by spatial sorting." bioRxiv (2020).
 
-  - image: ""
-    heading: ""
+  - image: "/assets/images/science-img3.png"
+    heading: "Determinants of range limits"
     content:
        |
+       Understanding the mechanisms that limit species geographical ranges is one of the central challenges in biogeography theory. Historically, biogeographers have claimed that, at large spatial scales, climate exerts a dominant control over the distribution of biota, such that the broad outlines of the population are constrained by niche requirements. And as such, source-sink dynamics can be ignored as it typically operates at the species movement's length scales.
 
-  - image: ""
-    heading: ""
+       Using a reaction-diffusion model that combines local growth and dispersal, we show that species may use sink patches near the bioclimatic limit as stepping stones to occupy faraway sink patches, thereby extending species distribution far beyond the climatic envelope. These stepping-stone dynamics may be substantial for species with high dispersal and low growth sensitivity—possibly even at large spatial scales.
+
+       For more, see my [ESA (2020) talk](https://www.youtube.com/watch?v=X3hcRjE2lRM&feature=emb_title) and
+
+       Goel, Nikunj, and Timothy H. Keitt. ["The mismatch between range and niche limits due to source-sink dynamics can be greater than species mean dispersal distance."](#) The American Naturalist 200:3, 448-455 (2022).
+
+  - image: "/assets/images/science-img4.gif"
+    heading: "Distribution and resilience of savanna and forest"
     content:
        |
+        Climate change is expected to result in large-scale biome shifts. However, we lack a predictive understanding of which ecological processes govern biome distributions and whether biomes are resilient to global change.
 
+        Using reaction-diffusion models, paleoecological data, and remote sensing products, we explore the interplay between fire-vegetation feedback and dispersal at the savanna-forest boundary. We find biome limits are not only determined by climate but also by continental-scale source-sink dynamics and dispersal barriers. Moreover, dispersal can, in general, allow biomes to recover after perturbations.
+
+        For more, see -
+
+        Goel, Nikunj, Vishwesha Guttal, Simon A. Levin, and A. Carla Staver. ["Dispersal increases the resilience of tropical savanna and forest distributions."](#) The American Naturalist 195, no. 5 (2020) - 833-850.
+
+        Goel, Nikunj, Erik Scott Van Vleck, Julie C. Aleman, and A. Carla Staver. ["Dispersal limitation and fire feedbacks maintain mesic savannas in Madagascar."](#) Ecology, 101(12):e03177 (2020).
 ---
 
 Organisms are continuously changing their position by moving or dispersing their propagules. This ubiquitous feature of life is responsible for generating a wide range of ecological and evolutionary patterns at population margins, including the evolution of increased dispersal rates, the spread of invasive species, and mismatched geographical and niche limits. My research aims to elucidate how dispersal generates these biogeographical patterns across scales in unison with other biological processes.

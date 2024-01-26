@@ -53,8 +53,8 @@
 
 	.science-wrpper{padding: 40px 0;}
 	.science-wrpper .science-details P{font-size: 15px;line-height: 24px;}
-	.science-block .science-img img{margin: 0 0 20px;}
-	.science-block .science-description h3{font-size: 22px;margin: 0 0 15px;}
+	.science-block img{margin: 0 0 20px;}
+	.science-block h3{font-size: 22px;margin: 0 0 15px;}
 	.even-science-block .row{flex-flow: column-reverse;}
 
 	.outreach-wrp{padding: 40px 0;}

@@ -276,29 +276,27 @@ header {
     color: #9b1e10;
     text-decoration: underline;
 }
-.science-block .science-img img{
+.science-block img{
     max-width: 100%;
 }
-.science-block .science-description h3{
+.science-block h3{
     font-size: 26px;
     font-weight: 600;
     color: #000;
     text-transform: capitalize;
     margin: 0 0 15px;
 }
-.science-block .science-description p{
+.science-block p{
     font-size: 14px;
     line-height: 22px;
     font-weight: 500;
     margin: 0 0 10px;
     text-align: justify;
 }
-.science-block .science-description p a{
+.science-block p a{
     color: #9b1e10;
     text-decoration: underline;
 }
-
-
 
 .publications-wrp{
     padding: 60px 0;
