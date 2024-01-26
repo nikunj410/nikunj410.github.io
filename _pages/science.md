@@ -9,18 +9,10 @@ type:
     heading: "Biological invasions"
     content:
      |
-      We face an an invasion crisis. Rapid globalization of trade and commerce has displaced many species beyond their native realm, resulting in massive monetary and biodiversity losses. Therefore, understanding why drivers of the establishment and spread of invasive species is critical to maintaining ecosystem health.
+      We face an invasion crisis. Rapid globalization of trade and commerce has displaced many species beyond their native realm, resulting in massive monetary and biodiversity losses. Therefore, understanding the drivers of the establishment and spread of invasive species is critical to maintaining ecosystem health.
 
       To this end, I am exploring the interplay between population demography and human transportation networks to study two broad questions: how do species spread via human dispersal pathways, and why do some species become more invasive than others? Understanding these questions will advance ecology theory and yield insights to control invader populations and mitigate their adverse effects.
-  
-  - image: "/assets/images/science-img1.png"
-    heading: "Biological invasions"
-    content:
-     |
-      We face an an invasion crisis. Rapid globalization of trade and commerce has displaced many species beyond their native realm, resulting in massive monetary and biodiversity losses. Therefore, understanding why drivers of the establishment and spread of invasive species is critical to maintaining ecosystem health.
-
-      To this end, I am exploring the interplay between population demography and human transportation networks to study two broad questions: how do species spread via human dispersal pathways, and why do some species become more invasive than others? Understanding these questions will advance ecology theory and yield insights to control invader populations and mitigate their adverse effects.
-    
+        
   - image: "/assets/images/science-img2.png"
     heading: "Spatial sorting"
     content:
@@ -51,7 +43,7 @@ type:
        |
         Climate change is expected to result in large-scale biome shifts. However, we lack a predictive understanding of which ecological processes govern biome distributions and whether biomes are resilient to global change.
 
-        Using reaction-diffusion models, paleoecological data, and remote sensing products, we explore the interplay between fire-vegetation feedback and dispersal at the savanna-forest boundary. We find biome limits are not only determined by climate but also by continental-scale source-sink dynamics and dispersal barriers. Moreover, dispersal can, in general, allow biomes to recover after perturbations.
+        We explore the interplay between fire-vegetation feedback and dispersal at the savanna-forest boundary using reaction-diffusion models, paleoecological data, and remote sensing products. We find biome limits are determined by climate and continental-scale source-sink dynamics and dispersal barriers. Moreover, dispersal can generally allow biomes to recover after perturbations.
 
         For more, see -
 
