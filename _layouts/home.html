@@ -7,21 +7,21 @@ layout: default
 		<div class="row">
 			<div class="col-md-4 col-sm-12">
 				<div class="about-img">
-					<img src="/assets/images/user.jpg" alt="">
+					<img src="{{ page.image }}" alt="">
 
 					<div class="about-links">
-						<a href="mailto:nikunj410@gmail.com" class="about-link" rel="" target=""><i
-								class="fas fa-envelope"></i><span>nikunj410@gmail.com</span></a>
-						<a href="https://scholar.google.com/citations?user=dvGD3gIAAAAJ&hl=en;hl=en" class="about-link"
+						<a href="mailto:{{ page.email }}" class="about-link" rel="" target=""><i
+								class="fas fa-envelope"></i><span>{{ page.email }}</span></a>
+						<a href="{{ page.google_scholar }}" class="about-link"
 							rel="" target=""><i class="fab fa-google"></i><span>Google Scholar</span></a>
-						<a href="https://github.com/nikunj410" class="about-link" rel="" target=""><i
+						<a href="{{ page.github }}" class="about-link" rel="" target=""><i
 								class="fab fa-github"></i><span>GitHub</span></a>
-						<a href="https://orcid.org/0000-0002-5720-7761" class="about-link" rel="" target=""><i
+						<a href="{{ page.orcid }}" class="about-link" rel="" target=""><i
 								class="fab fa-orcid"></i><span>ORCiD</span></a>
-						<a href="https://twitter.com/nikunj410" class="about-link" rel="" target=""><i
+						<a href="{{ page.twitter }}" class="about-link" rel="" target=""><i
 								class="fab fa-twitter"></i><span>Twitter</span></a>
 					</div>
-					<a href="/assets/CV.pdf" class="cv-btn" target="_blank">CV</a>
+					<a href="{{ page.CV }}" class="cv-btn" target="_blank">CV</a>
 				</div>
 			</div>
 			<div class="col-md-8 col-sm-12">

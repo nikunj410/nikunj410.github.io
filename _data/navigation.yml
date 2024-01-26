@@ -25,9 +25,3 @@ submenu:
   - title: "Math Art"
     url: /math-art
     active: math-art
-  - title: "Shiny"
-    url: /shiny
-    active: shiny
-  - title: "Blog"
-    url: /blog
-    active: blog

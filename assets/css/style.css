@@ -239,8 +239,8 @@ header {
 }
 .cv-btn{
     padding: 7px 15px;
-    color: #9b1e10;
-    border: 1px solid #9b1e10;
+    color: #000;
+    border: 1px solid #000;
     border-radius: 30px;
     display: table;
     max-width:85px;
@@ -249,7 +249,7 @@ header {
     margin: 25px auto 0;
 }
 .cv-btn:hover{
-    background: #9b1e10;
+    background: #000;
     color: #fff;
 }
 
@@ -437,8 +437,8 @@ header {
 }
 .gallery-wrp .gallery-box .box-img{
     height: 175px;
-    width: 200px;    
-    min-width: 200px;    
+    width: 200px;
+    min-width: 200px;
 }
 .gallery-wrp .gallery-box .box-img img{
     object-fit: cover;
