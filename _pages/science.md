@@ -9,9 +9,18 @@ type:
     heading: "Biological invasions"
     content:
      |
-      We face an invasion crisis. Rapid globalization of trade and commerce has displaced many species beyond their native realm, resulting in massive monetary and biodiversity losses. Therefore, understanding why drivers of the establishment and spread of invasive species is critical to maintaining ecosystem health.
+      We face an an invasion crisis. Rapid globalization of trade and commerce has displaced many species beyond their native realm, resulting in massive monetary and biodiversity losses. Therefore, understanding why drivers of the establishment and spread of invasive species is critical to maintaining ecosystem health.
 
       To this end, I am exploring the interplay between population demography and human transportation networks to study two broad questions: how do species spread via human dispersal pathways, and why do some species become more invasive than others? Understanding these questions will advance ecology theory and yield insights to control invader populations and mitigate their adverse effects.
+  
+  - image: "/assets/images/science-img1.png"
+    heading: "Biological invasions"
+    content:
+     |
+      We face an an invasion crisis. Rapid globalization of trade and commerce has displaced many species beyond their native realm, resulting in massive monetary and biodiversity losses. Therefore, understanding why drivers of the establishment and spread of invasive species is critical to maintaining ecosystem health.
+
+      To this end, I am exploring the interplay between population demography and human transportation networks to study two broad questions: how do species spread via human dispersal pathways, and why do some species become more invasive than others? Understanding these questions will advance ecology theory and yield insights to control invader populations and mitigate their adverse effects.
+    
   - image: "/assets/images/science-img2.png"
     heading: "Spatial sorting"
     content:
