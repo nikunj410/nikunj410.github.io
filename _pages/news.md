@@ -11,7 +11,7 @@ News
 
 ### 2023
 
-*   I successfully defended by P.hD.
+*   I successfully defended my PhD.
 *   I was awarded the Trailblazer Ecology Publication award by the Student Section, Ecological Society of America.
 *   I presented my work on spatial sorting at the biannual [ASN conference](https://asnasilomar2023.org/) at Asilomar and Evolution.
 
@@ -19,10 +19,10 @@ News
 
 ### 2022
 
-*   What limits species ranges? Check out our new[paper](https://www.journals.uchicago.edu/doi/abs/10.1086/720420?journalCode=an) in the American Naturalist.
+*   What limits species ranges? Check out our new [paper](https://www.journals.uchicago.edu/doi/abs/10.1086/720420?journalCode=an) in the American Naturalist.
 *   I presented my work on spatial sorting at the Center for Ecological Sciences, Indian Institute of Science, Bangalore.
 *   I was awarded C.P. “Pete” Oliver fellowship by UT Austin to conduct my research on soapberry bugs.
-*   I got into ecology through a series of fortunate events. As a Stengl-Wyer graduate fellow, I[write](https://biodiversity.utexas.edu/news/entry/meet-stengl-wyer-fellow-nikunj-goel) about how I got here and where I plan to go next.
+*   I got into ecology through a series of fortunate events. As a Stengl-Wyer graduate fellow, I [write](https://biodiversity.utexas.edu/news/entry/meet-stengl-wyer-fellow-nikunj-goel) about how I got here and where I plan to go next.
 *   I was awarded [Graduate Continuing Fellowship](https://gradschool.utexas.edu/funding/fellowships/grad-school/continuing) by UT Austin for 2022-23.
 *   Are you an empiricist wanting to understand and do ecology theory? We [published](https://www.journals.uchicago.edu/doi/abs/10.1086/717206) a step-by-step guide on how you can get started.
 
@@ -52,5 +52,5 @@ News
 *   I was awarded the summer fellowship from the College of Natural Sciences, UT Austin.
 *   My first first-author paper from masters got [published](https://www.amnat.org/an/newpapers/May-Goel.html) in The American Naturalist.
 *   This spring, I will assist Lindsey Smith in teaching Biostatistics.
-*   My second paper from Master is available online on [BioRxiv.](https://www.biorxiv.org/content/10.1101/2020.01.14.905208v1)
+*   My second paper from Master's is available online on [BioRxiv.](https://www.biorxiv.org/content/10.1101/2020.01.14.905208v1)
 *   The official announcement for the [Deevey Award](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/bes2.1630) by the Paleoecology section of the Ecological Society of America.
