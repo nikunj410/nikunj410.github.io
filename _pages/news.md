@@ -11,16 +11,19 @@ News
 
 ### 2023
 
+*   I have joined Mevin Hooten Lab, Department of Statistics and Data Sciences as a postoctoral researcher.
 *   I successfully defended my PhD.
+*   I presented our work on rapid evolution in soapberry bug populations by spatial soritng in the W.D. Hamilton Award research symposium.
+*   I presented our work on human-mediated spread of Zebra Mussel expansion at ESA, Ecological Integration Symposium, and Species on The Move. 
 *   I was awarded the Trailblazer Ecology Publication award by the Student Section, Ecological Society of America.
-*   I presented my work on spatial sorting at the biannual [ASN conference](https://asnasilomar2023.org/) at Asilomar and Evolution.
+*   I presented our work on spatial sorting at Evolution and the biannual [ASN conference](https://asnasilomar2023.org/) at Asilomar.
 
 <br>
 
 ### 2022
 
 *   What limits species ranges? Check out our new [paper](https://www.journals.uchicago.edu/doi/abs/10.1086/720420?journalCode=an) in the American Naturalist.
-*   I presented my work on spatial sorting at the Center for Ecological Sciences, Indian Institute of Science, Bangalore.
+*   I presented our work on spatial sorting at the Center for Ecological Sciences, Indian Institute of Science, Bangalore.
 *   I was awarded C.P. “Pete” Oliver fellowship by UT Austin to conduct my research on soapberry bugs.
 *   I got into ecology through a series of fortunate events. As a Stengl-Wyer graduate fellow, I [write](https://biodiversity.utexas.edu/news/entry/meet-stengl-wyer-fellow-nikunj-goel) about how I got here and where I plan to go next.
 *   I was awarded [Graduate Continuing Fellowship](https://gradschool.utexas.edu/funding/fellowships/grad-school/continuing) by UT Austin for 2022-23.
