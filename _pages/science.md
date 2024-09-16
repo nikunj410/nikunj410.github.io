@@ -7,6 +7,14 @@ seo_description: "Science"
 type:
 
   - image: "/assets/images/science-img1.png"
+    heading: "Climate Adaptation"
+    content:
+     |
+    As climate changes, many species are forced to move polewards. However, this poses a risk to species with limited dispersal capacity that are slow to track climate. Alternatively, a species may adapt to the local climate, which can potentially buffer against species extinction.
+    To identify the genetic basis of local adaptation, we are building process-based hierarchical Bayesian models. Our statistical model offers two advantages. 
+
+
+  - image: "/assets/images/science-img1.png"
     heading: "Biological invasions"
     content:
      |
