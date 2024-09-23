@@ -11,7 +11,7 @@ type:
     content:
      |
       As climate changes, many species are forced to move polewards. However, this poses a risk to species with limited dispersal capacity that are slow to track climate. Alternatively, a species may adapt to the local climate, which can potentially buffer against species extinction.
-      To identify the genetic basis of local adaptation, we are building process-based hierarchical Bayesian models. Our statistical model offers two advantages. 
+      Therefore, to understand species response to climate change, we are building process-based hierarchical Bayesian models to identify the genetic basis of local adaptation. Our statistical method offers two advantages over traditional phenomenological statistical models. First, we provide a rigorous framework to probabilistically estimate genetic variation from noisy and incomplete genetic data, e.g., RAD and low-coverage genome sequencing. Second, we use a demographic evolutionary model to partition the genetic variation into adaptive and non-adaptive components.
 
 
   - image: "/assets/images/science-img1.png"
