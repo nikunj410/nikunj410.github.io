@@ -6,7 +6,7 @@ permalink: "/science/"
 seo_description: "Science"
 type:
 
-  - image: "/assets/images/science-img1.png"
+  - image: "/assets/images/science-img6.png"
     heading: "Climate Adaptation"
     content:
      |
