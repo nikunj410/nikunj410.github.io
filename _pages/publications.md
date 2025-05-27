@@ -8,7 +8,9 @@ seo_description: publications
 
 Publications
 ------------
+You can find the complete list of my publications on [\[Google Scholar\]](https://scholar.google.com/citations?user=dvGD3gIAAAAJ&hl=en)
 
+<!---
 * <span>1. </span> Algebraic theorem of evolution by spatial sorting. <br>
 **Goel, N.** <br>
 _bioRxiv_ | [\[link\]](https://doi.org/10.1101/2021.09.20.461092)
@@ -36,3 +38,4 @@ _bioRxiv_ | [\[link\]](https://doi.org/10.1101/2021.09.20.461092)
 * <span>7. </span> Lack of Critical Slowing Down Suggests that Financial Meltdowns Are Not Critical Transitions, yet Rising Variability Could Signal Systemic Risk. <br>
   Guttal, V., Raghavendra, S., **Goel, N.,**, & Hoarau, Q. (2016). \*Equal contributors <br>
  _PLOS One 11, e0144198_ | [\[link\]](https://journals.plos.org/plosone/article/authors?id=10.1371/journal.pone.0144198) | [\[shiny\]](https://www.nikunjgoel.com/shiny)
+--->
