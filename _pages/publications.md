@@ -8,7 +8,7 @@ seo_description: publications
 
 Publications
 ------------
-You can find the complete list of my publications on \[Google Scholar\](https://scholar.google.com/citations?user=dvGD3gIAAAAJ&hl=en)
+You can find the complete list of my publications on [\Google Scholar](https://scholar.google.com/citations?user=dvGD3gIAAAAJ&hl=en)
 
 <!---
 * <span>1. </span> Algebraic theorem of evolution by spatial sorting. <br>
