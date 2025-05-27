@@ -10,9 +10,12 @@ type:
     heading: "Climate Adaptation"
     content:
      |
-      As climate changes, many species are forced to move polewards. However, this poses a risk to species with limited dispersal capacity that are slow to track climate. Alternatively, a species may adapt to the local climate, which can potentially buffer against species extinction.
-      Therefore, to understand species response to climate change, we are building process-based hierarchical Bayesian models to identify the genetic basis of local adaptation. Our statistical method offers two advantages over traditional phenomenological statistical models. First, we provide a rigorous framework to probabilistically estimate genetic variation from noisy and incomplete genetic data, e.g., RAD and low-coverage genome sequencing. Second, we use a demographic evolutionary model to partition the genetic variation into adaptive and non-adaptive components.
+      As the climate changes, many species are forced to move polewards. However, this poses a risk to species with limited dispersal capacity that are slow to track the climate. Alternatively, a species may adapt to the local climate, which can potentially buffer against species extinction.
+      Therefore, to understand species' response to climate change, we are building process-based hierarchical Bayesian models to identify the genetic basis of local adaptation. Our statistical method offers two advantages over traditional phenomenological statistical models. First, we provide a rigorous framework to probabilistically estimate genetic variation from noisy and incomplete genetic data, e.g., RAD and low-coverage genome sequencing. Second, we use a demographic evolutionary model to partition the genetic variation into adaptive and non-adaptive components.
 
+       For more, see:
+
+       Goel, Nikunj, Christen M. Bossu, Justin J. Van Ee, Erika Zavaleta, Kristen C. Ruegg, and Mevin B. Hooten. "Identifying genomic adaptation to local climate using a mechanistic evolutionary model." bioRxiv (2024)
 
   - image: "/assets/images/science-img1.png"
     heading: "Biological invasions"
@@ -21,6 +24,10 @@ type:
       We face an invasion crisis. Rapid globalization of trade and commerce has displaced many species beyond their native realm, resulting in massive monetary and biodiversity losses. Therefore, understanding the drivers of the establishment and spread of invasive species is critical to maintaining ecosystem health.
 
       To this end, I am exploring the interplay between population demography and human transportation networks to study two broad questions: how do species spread via human dispersal pathways, and why do some species become more invasive than others? Understanding these questions will advance ecology theory and yield insights to control invader populations and mitigate their adverse effects.
+
+       For more, see:
+
+       Goel, Nikunj, Andrew M. Liebhold, Cleo Bertelsmeier, Mevin B. Hooten, Kirill S. Korolev, and Timothy H. Keitt. "A mechanistic statistical approach to infer invasion characteristics of human‐dispersed species with complex life cycle." Ecological Monographs 95, no. 1 (2025): e70003.
         
   - image: "/assets/images/science-img2.png"
     heading: "Spatial sorting"
@@ -32,8 +39,8 @@ type:
 
        For more, see:
 
-       **Goel, Nikunj** "Algebraic theorem of evolution by spatial sorting." bioRxiv (2020).
-
+       Goel, Nikunj, Mattheau S. Comerford, Anastasia Bernat, Scott P. Egan, Thomas E. Juenger, and Timothy H. Keitt. "Measuring the Strength of Spatial Sorting." bioRxiv (2025).
+    
   - image: "/assets/images/science-img3.png"
     heading: "Determinants of range limits"
     content:
