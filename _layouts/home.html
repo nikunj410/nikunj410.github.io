@@ -1,50 +1,35 @@
+
+---
+layout: default
+---
+
 <section class="about-wrpper">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-4 col-sm-12">
-        <div class="about-img">
-          <img src="{{ page.image }}" alt="Profile photo of {{ page.title }}">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-4 col-sm-12">
+				<div class="about-img">
+					<img src="{{ page.image }}" alt="">
 
-          <div class="about-links">
-            <a href="mailto:{{ page.email }}" class="about-link" target="_blank" rel="noopener noreferrer">
-              <i class="fas fa-envelope"></i><span>{{ page.email }}</span>
-            </a>
-            <a href="{{ page.google_scholar }}" class="about-link" target="_blank" rel="noopener noreferrer">
-              <i class="fab fa-google"></i><span>Google Scholar</span>
-            </a>
-            <a href="{{ page.github }}" class="about-link" target="_blank" rel="noopener noreferrer">
-              <i class="fab fa-github"></i><span>GitHub</span>
-            </a>
-            <a href="{{ page.orcid }}" class="about-link" target="_blank" rel="noopener noreferrer">
-              <i class="fab fa-orcid"></i><span>ORCiD</span>
-            </a>
-            <!-- Replaced Twitter with Bluesky -->
-            <a href="{{ page.bluesky }}" class="about-link" target="_blank" rel="noopener noreferrer">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 530" fill="currentColor" class="bluesky-icon">
-                <path d="M145 0c34 0 63 19 98 51 29 27 52 60 58 68 6-8 29-41 58-68 35-32 64-51 98-51 60 0 101 39 101 99 0 30-17 53-44 84l-42 47 66-19c40-12 63-9 85 8 35 27 39 79 9 115-52 64-162 61-244-1l-30-23 4 39c8 67 3 118-16 145-10 14-24 21-38 21s-28-7-38-21c-19-27-24-78-16-145l4-39-30 23c-82 62-192 65-244 1-30-36-26-88 9-115 22-17 45-20 85-8l66 19-42-47C17 152 0 129 0 99 0 39 41 0 101 0z"/>
-              </svg>
-              <span>Bluesky</span>
-            </a>
-          </div>
-
-          <a href="{{ page.CV }}" class="cv-btn" target="_blank" rel="noopener noreferrer">CV</a>
-        </div>
-      </div>
-
-      <div class="col-md-8 col-sm-12">
-        <div class="description">
-          {{ page.content }}
-        </div>
-      </div>
-    </div>
-  </div>
+					<div class="about-links">
+						<a href="mailto:{{ page.email }}" class="about-link" rel="" target=""><i
+								class="fas fa-envelope"></i><span>{{ page.email }}</span></a>
+						<a href="{{ page.google_scholar }}" class="about-link"
+							rel="" target=""><i class="fab fa-google"></i><span>Google Scholar</span></a>
+						<a href="{{ page.github }}" class="about-link" rel="" target=""><i
+								class="fab fa-github"></i><span>GitHub</span></a>
+						<a href="{{ page.orcid }}" class="about-link" rel="" target=""><i
+								class="fab fa-orcid"></i><span>ORCiD</span></a>
+						<a href="{{ page.twitter }}" class="about-link" rel="" target=""><i
+								class="fab fa-twitter"></i><span>Twitter</span></a>
+					</div>
+					<a href="{{ page.CV }}" class="cv-btn" target="_blank">CV</a>
+				</div>
+			</div>
+			<div class="col-md-8 col-sm-12">
+				<div class="description">
+					{{ page.content }}
+				</div>
+			</div>
+		</div>
+	</div>
 </section>
-
-<style>
-  .bluesky-icon {
-    width: 18px;
-    height: 18px;
-    margin-right: 6px;
-    vertical-align: middle;
-  }
-</style>
