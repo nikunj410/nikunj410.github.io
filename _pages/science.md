@@ -10,20 +10,22 @@ type:
     heading: "Climate Adaptation"
     content:
      |
-      As the climate changes, many species are forced to move polewards. However, this poses a risk to species with limited dispersal capacity that are slow to track the climate. Alternatively, a species may adapt to the local climate, which can buffer against species extinction.
-      Therefore, to understand species' response to climate change, we are building process-based hierarchical Bayesian models to identify the genetic basis of local adaptation. Our statistical method offers two advantages over traditional phenomenological statistical models. First, we provide a rigorous framework to probabilistically estimate genetic variation from noisy and incomplete genetic data, e.g., RAD and low-coverage genome sequencing. Second, we use a demographic evolutionary model to partition the genetic variation into adaptive and non-adaptive components.
+      As the climate changes, many species are forced to move poleward. However, this poses a risk to species with limited dispersal capacity that are slow to track the climate. Alternatively, a species may adapt to the local climate, which can buffer against species extinction.
+      Therefore, to understand species' response to climate change, we are building process-based hierarchical Bayesian models to identify the genetic basis of local adaptation. Our statistical method offers two advantages over traditional phenomenological statistical models. First, we provide a rigorous framework for probabilistically estimating genetic variation from noisy, incomplete genetic data (e.g., RAD-seq, pool-seq, and low-coverage genome sequencing). Second, we use a demographic evolutionary model to partition the genetic variation into adaptive and non-adaptive components.
 
        For more, see:
 
-       **Goel, Nikunj**, Christen M. Bossu, Justin J. Van Ee, Erika Zavaleta, Kristen C. Ruegg, and Mevin B. Hooten. ["Identifying genomic adaptation to local climate using a mechanistic evolutionary model."](#) bioRxiv (2024)
+       **Goel, Nikunj**, Christen M. Bossu, Justin J. Van Ee, Erika Zavaleta, Kristen C. Ruegg, and Mevin B. Hooten. ["Identifying genomic adaptation to local climate using a mechanistic evolutionary model."] (#) Methods in Ecology and Evolution 16, no. 10 (2025): 2448-2460.
+
+       **Goel, Nikunj**, Christen M. Bossu, Seorim Yi, Timothy M. Brown, Erica CN Robertson, Peri E. Bolton, Ben J. Vernasco et al. ["Identifying adaptive variation in spatially structured populations using low-coverage whole-genome sequencing data."] (#) Molecular Biology and Evolution (2026): msag255.
 
   - image: "/assets/images/science-img1.png"
     heading: "Biological invasions"
     content:
      |
-      We face an invasion crisis. Rapid globalization of trade and commerce has displaced many species beyond their native realm, resulting in massive monetary and biodiversity losses. Therefore, understanding the drivers of the establishment and spread of invasive species is critical to maintaining ecosystem health.
+      We face an invasion crisis. Rapid globalization of trade and commerce has pushed many species beyond their native ranges, causing massive economic and biodiversity losses. Therefore, understanding the drivers of the establishment and spread of invasive species is critical to maintaining ecosystem health.
 
-      To this end, I am exploring the interplay between population demography and human transportation networks to study two broad questions: how do species spread via human dispersal pathways, and why do some species become more invasive than others? Understanding these questions will advance ecology theory and yield insights to control invader populations and mitigate their adverse effects.
+      To this end, I am exploring the interplay between population demography and human transportation networks to study two broad questions: how do species spread via human dispersal pathways, and why do some species become more invasive than others? Answering these questions will advance ecological theory and provide insights for controlling invader populations and mitigating their adverse effects.
 
        For more, see:
 
@@ -33,21 +35,24 @@ type:
     heading: "Spatial sorting"
     content:
        |
-       Heritable variation in traits that confer differential lifetime reproductive success can fuel evolutionary change by natural selection. However, at margins, populations may be subjected to another kind of selection pressure—traits that confer dispersal advantage may be overrepresented in newly occupied patches even if those traits do not confer a fitness advantage. This mechanism of directional evolutionary change is referred to as spatial sorting. As natural habitats become fragmented and new invaders are introduced, spatial sorting may be a norm than an exception.
+       Heritable variation in traits that confer differential lifetime reproductive success can fuel evolutionary change by natural selection. However, at the margins, populations may face another kind of evolutionary pressure: traits that confer dispersal advantage may be overrepresented in newly occupied patches even if those traits do not confer a fitness advantage. This mechanism of directional evolutionary change is called spatial sorting.
 
-       Starting from the first principles, I am developing the theory of spatial sorting to answer: How do traits change at the margins? How can we design experiments to measure and interpret trait changes at margins in the broader context of evolutionary theory?
+       Starting from first principles, I am developing the theory of spatial sorting to answer: What drives evolution at population margins? How can we design experiments to measure and interpret trait changes at margins in the broader context of evolutionary theory?
 
        For more, see:
-
+    
+       **Goel, Nikunj**. ["Evolution in a moving frame of reference."] (#) bioRxiv (2021): 2021-09.
+    
        **Goel, Nikunj**, Mattheau S. Comerford, Anastasia Bernat, Scott P. Egan, Thomas E. Juenger, and Timothy H. Keitt. ["Measuring the Strength of Spatial Sorting."](#) bioRxiv (2025).
+
     
   - image: "/assets/images/science-img3.png"
     heading: "Determinants of range limits"
     content:
        |
-       Understanding the mechanisms that limit species' geographical ranges is one of the central challenges in biogeography theory. Historically, biogeographers have claimed that, at large spatial scales, climate exerts a dominant control over the distribution of biota, such that the broad outlines of the population are constrained by niche requirements. And as such, source-sink dynamics can be ignored as it typically operates at the species' movement length scales.
+       Understanding the mechanisms that limit species' geographical ranges is a central challenge in biogeography theory. Historically, biogeographers have argued that, at large spatial scales, climate is the primary determinant of species distributions, constraining the broad outlines of populations through niche requirements. As such, source-sink dynamics can be ignored, since they typically operate at species-movement length scales.
 
-       Using a reaction-diffusion model that combines local growth and dispersal, we show that species may use sink patches near the bioclimatic limit as stepping stones to occupy faraway sink patches, thereby extending species distribution far beyond the climatic envelope. These stepping-stone dynamics may be substantial for species with high dispersal and low growth sensitivity—possibly even at large spatial scales.
+       Using a reaction-diffusion model that combines local growth and dispersal, we show that species may use sink patches near the bioclimatic limit as stepping stones to occupy faraway sink patches, thereby extending species distribution far beyond the climatic envelope. These stepping-stone dynamics may matter for species with high dispersal and low growth sensitivity—possibly even over large spatial scales.
 
        For more, see my [ESA (2020) talk](https://www.youtube.com/watch?v=X3hcRjE2lRM&feature=emb_title) and
 
@@ -59,15 +64,17 @@ type:
        |
         Climate change is expected to result in large-scale biome shifts. However, we lack a predictive understanding of which ecological processes govern biome distributions and whether biomes are resilient to global change.
 
-        We explore the interplay between fire-vegetation feedback and dispersal at the savanna-forest boundary using reaction-diffusion models, paleoecological data, and remote sensing products. We find that biome limits are determined by climate and continental-scale source-sink dynamics and dispersal barriers. Moreover, dispersal can generally allow biomes to recover after perturbations.
+        We explore the interplay between fire-vegetation feedback and dispersal at the savanna-forest boundary using reaction-diffusion models, paleoecological data, and remote sensing products. We find that climate, continental-scale source-sink dynamics, and dispersal barriers determine biome limits. Moreover, dispersal can generally allow biomes to recover after perturbations.
 
         For more, see -
 
         **Goel, Nikunj**, Vishwesha Guttal, Simon A. Levin, and A. Carla Staver. ["Dispersal increases the resilience of tropical savanna and forest distributions."](#) The American Naturalist 195, no. 5 (2020) - 833-850.
 
         **Goel, Nikunj**, Erik Scott Van Vleck, Julie C. Aleman, and A. Carla Staver. ["Dispersal limitation and fire feedbacks maintain mesic savannas in Madagascar."](#) Ecology, 101(12):e03177 (2020).
+
+        **Goel, Nikunj**, Julie C. Aleman, and A. Carla Staver. ["Dispersal limitation and fire feedback maintain mesic savannas in Madagascar: Reply."] (#) Ecology 107, no. 4 (2026): e70332.
 ---
 
-Organisms are continuously changing their position by moving or dispersing their propagules. This ubiquitous feature of life is responsible for generating a wide range of ecological and evolutionary patterns at population margins, including the evolution of increased dispersal rates, the spread of invasive species, and mismatched geographical and niche limits. My research aims to elucidate how dispersal generates these biogeographical patterns across scales in unison with other biological processes.
+Organisms continuously change position by moving or dispersing their propagules. This ubiquitous feature of life generates a wide range of ecological and evolutionary patterns at population margins, including increased dispersal rates, the spread of invasive species, and mismatched geographical and niche limits. My research aims to elucidate how dispersal generates these biogeographical patterns across scales in unison with other biological processes.
 
-My research work combines both theoretical and statistical approaches. I use theory to generate empirically testable insights that allow us to unify concepts across seemingly disparate systems that are otherwise challenging. Naturally, my research relies on long walks and pen and paper. Although my research has a strong theoretical bend, I collaborate with empiricists to [test theoretical predictions.](https://www.cell.com/trends/cell-biology/fulltext/S0962-8924(15)00194-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0962892415001944%3Fshowall%3Dtrue)
+My research work combines both theoretical and statistical approaches. I use theory to generate empirically testable insights that unify concepts across seemingly disparate systems. Naturally, my research relies on long walks and pen and paper. Although my research has a strong theoretical bent, I collaborate with empiricists to [test theoretical predictions.](https://www.cell.com/trends/cell-biology/fulltext/S0962-8924(15)00194-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0962892415001944%3Fshowall%3Dtrue)
