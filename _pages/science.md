@@ -15,9 +15,9 @@ type:
 
        For more, see:
 
-       **Goel, Nikunj**, Christen M. Bossu, Justin J. Van Ee, Erika Zavaleta, Kristen C. Ruegg, and Mevin B. Hooten. ["Identifying genomic adaptation to local climate using a mechanistic evolutionary model."] (#) Methods in Ecology and Evolution 16, no. 10 (2025): 2448-2460.
+       **Goel, Nikunj**, Christen M. Bossu, Justin J. Van Ee, Erika Zavaleta, Kristen C. Ruegg, and Mevin B. Hooten. ["Identifying genomic adaptation to local climate using a mechanistic evolutionary model."](#) Methods in Ecology and Evolution 16, no. 10 (2025): 2448-2460.
 
-       **Goel, Nikunj**, Christen M. Bossu, Seorim Yi, Timothy M. Brown, Erica CN Robertson, Peri E. Bolton, Ben J. Vernasco et al. ["Identifying adaptive variation in spatially structured populations using low-coverage whole-genome sequencing data."] (#) Molecular Biology and Evolution (2026): msag255.
+       **Goel, Nikunj**, Christen M. Bossu, Seorim Yi, Timothy M. Brown, Erica CN Robertson, Peri E. Bolton, Ben J. Vernasco et al. ["Identifying adaptive variation in spatially structured populations using low-coverage whole-genome sequencing data."](#)   Molecular Biology and Evolution (2026): msag255.
 
   - image: "/assets/images/science-img1.png"
     heading: "Biological invasions"
@@ -25,7 +25,7 @@ type:
      |
       We face an invasion crisis. Rapid globalization of trade and commerce has pushed many species beyond their native ranges, causing massive economic and biodiversity losses. Therefore, understanding the drivers of the establishment and spread of invasive species is critical to maintaining ecosystem health.
 
-      To this end, I am exploring the interplay between population demography and human transportation networks to study two broad questions: how do species spread via human dispersal pathways, and why do some species become more invasive than others? Answering these questions will advance ecological theory and provide insights for controlling invader populations and mitigating their adverse effects.
+      To this end, I am exploring the interplay between population demography and human transportation networks to study two broad questions: how species spread via human dispersal pathways, and why some species become more invasive than others. Answering these questions will advance ecological theory and provide insights for controlling invader populations and mitigating their adverse effects.
 
        For more, see:
 
@@ -41,7 +41,7 @@ type:
 
        For more, see:
     
-       **Goel, Nikunj**. ["Evolution in a moving frame of reference."] (#) bioRxiv (2021): 2021-09.
+       **Goel, Nikunj**. ["Evolution in a moving frame of reference."](#) bioRxiv (2021): 2021-09.
     
        **Goel, Nikunj**, Mattheau S. Comerford, Anastasia Bernat, Scott P. Egan, Thomas E. Juenger, and Timothy H. Keitt. ["Measuring the Strength of Spatial Sorting."](#) bioRxiv (2025).
 
@@ -52,7 +52,7 @@ type:
        |
        Understanding the mechanisms that limit species' geographical ranges is a central challenge in biogeography theory. Historically, biogeographers have argued that, at large spatial scales, climate is the primary determinant of species distributions, constraining the broad outlines of populations through niche requirements. As such, source-sink dynamics can be ignored, since they typically operate at species-movement length scales.
 
-       Using a reaction-diffusion model that combines local growth and dispersal, we show that species may use sink patches near the bioclimatic limit as stepping stones to occupy faraway sink patches, thereby extending species distribution far beyond the climatic envelope. These stepping-stone dynamics may matter for species with high dispersal and low growth sensitivity—possibly even over large spatial scales.
+       Using a reaction-diffusion model that combines local growth and dispersal, we show that species may use sink patches near the bioclimatic limit as stepping stones to occupy faraway sink patches, extending species distributions far beyond the climatic envelope. These stepping-stone dynamics may matter for species with high dispersal and low growth sensitivity—possibly even over large spatial scales.
 
        For more, see my [ESA (2020) talk](https://www.youtube.com/watch?v=X3hcRjE2lRM&feature=emb_title) and
 
@@ -72,7 +72,7 @@ type:
 
         **Goel, Nikunj**, Erik Scott Van Vleck, Julie C. Aleman, and A. Carla Staver. ["Dispersal limitation and fire feedbacks maintain mesic savannas in Madagascar."](#) Ecology, 101(12):e03177 (2020).
 
-        **Goel, Nikunj**, Julie C. Aleman, and A. Carla Staver. ["Dispersal limitation and fire feedback maintain mesic savannas in Madagascar: Reply."] (#) Ecology 107, no. 4 (2026): e70332.
+        **Goel, Nikunj**, Julie C. Aleman, and A. Carla Staver. ["Dispersal limitation and fire feedback maintain mesic savannas in Madagascar: Reply."](#) Ecology 107, no. 4 (2026): e70332.
 ---
 
 Organisms continuously change position by moving or dispersing their propagules. This ubiquitous feature of life generates a wide range of ecological and evolutionary patterns at population margins, including increased dispersal rates, the spread of invasive species, and mismatched geographical and niche limits. My research aims to elucidate how dispersal generates these biogeographical patterns across scales in unison with other biological processes.
